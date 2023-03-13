@@ -1,0 +1,112 @@
+{
+   "stories": [
+      {
+         "id": 1,
+         "title": "The many benefits of taking a healing holiday",
+         "image": "img/stories/holiday/01.jpg",
+         "text": "‘Helaing holidays’ are on the rise tohelp maximise your health and happines...",
+         "link": "Read more",
+         "category": 1,
+         "url": "https://google.com"
+      },
+      {
+         "id": 2,
+         "title": "The best Kyoto restaurant to try Japanese food",
+         "image": "img/stories/holiday/02.jpg",
+         "text": "From tofu to teahouses, here’s our guide to Kyoto’s best restaurants to visit...",
+         "link": "Read more",
+         "category": 1,
+         "url": "https://google.com"
+      },
+      {
+         "id": 3,
+         "title": "Skip Chichen Itza and head to this remote Yucatan",
+         "image": "img/stories/holiday/03.jpg",
+         "text": "It’s remote and challenging to get, but braving the jungle and exploring these ruins without the....",
+         "link": "Read more",
+         "category": 1,
+         "url": "https://google.com"
+      },
+      {
+         "id": 4,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/holiday/04.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 1,
+         "url": "https://google.com"
+      },
+      {
+         "id": 5,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/itza/02.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 2,
+         "url": "https://google.com"
+      },
+      {
+         "id": 6,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/itza/01.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 2,
+         "url": "https://google.com"
+      },
+      {
+         "id": 7,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/itza/04.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 2,
+         "url": "https://google.com"
+      },
+      {
+         "id": 8,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/itza/03.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 2,
+         "url": "https://google.com"
+      },
+      {
+         "id": 9,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/surf/04.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 3,
+         "url": "https://google.com"
+      },
+      {
+         "id": 10,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/surf/03.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 3,
+         "url": "https://google.com"
+      },
+      {
+         "id": 11,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/surf/02.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 3,
+         "url": "https://google.com"
+      },
+      {
+         "id": 12,
+         "title": "Surf’s up at these beginner spots around the world",
+         "image": "img/stories/surf/01.jpg",
+         "text": "If learning to surf has in on your to-do list for a while, the good news is: it’s never too late...",
+         "link": "Read more",
+         "category": 3,
+         "url": "https://google.com"
+      }
+   ]
+}
